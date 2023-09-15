@@ -32,12 +32,12 @@ Included in this repository are scripts that automate the execution of the above
 
 
 ```bash
-./run_docker.sh
+./start_interpreter.sh
 ```
 
 **NOTICE**  
 Before running the scripts, ensure they have the appropriate execution permissions:
 
 ```bash
-chmod +x run_docker.sh
+chmod +x start_interpreter.sh
 ```
