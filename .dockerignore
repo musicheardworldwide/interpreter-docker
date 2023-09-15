@@ -1,0 +1,21 @@
+# git
+.git
+.gitignore
+
+# misc
+.idea
+*.log
+*.tmp
+*.bak
+*.cache
+*.pyc
+__pycache__/
+*.git
+.dockerignore
+Dockerfile
+*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
